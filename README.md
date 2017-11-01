@@ -1,2 +1,2 @@
 # aws4d4d
-AWS For Developers
+Amazon Web Service for Developers for Dummies
